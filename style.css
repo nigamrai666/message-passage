@@ -50,7 +50,7 @@ form{
 form input{
     margin: 10px 0;
     outline: none;
-    border: 1px solid #666fee;
+    border: 1px solid #585a77;
 
 
 }
@@ -65,7 +65,7 @@ form .mssgbox{
 form .btn{
     font-size: 1rem;
     padding: 6px 18px;
-    background-color: #666fee;
+    background-color: #6d76ee;
     color: #fff;
     font-weight: 500;
     cursor: pointer;
